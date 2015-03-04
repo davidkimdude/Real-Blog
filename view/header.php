@@ -21,9 +21,11 @@ and open the template in the editor.
         <!--Makes the title-->
         <div class="page-header">
             <a href="http://localhost/kimd-blog/index.php"><h1>Blog</h1></a>
+            <a href="http://localhost:8383/Portfolio3DavidK/home.html"><button class="btn sm ghost" id="portfolio">Portfolio</button></a>
         </div>
         <!--Links to the pages-->
         <a href="http://localhost/kimd-blog/login.php"><button class="btn md ghost" id="button">Login</button></a>
         <a href="http://localhost/kimd-blog/controller/logout-user.php"><button class="btn md ghost" id="button">Logout</button></a>
         <a href="http://localhost/kimd-blog/register.php"><button class="btn md ghost" id="button">Register</button></a>
+        
                 
